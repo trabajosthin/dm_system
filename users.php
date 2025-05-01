@@ -34,7 +34,7 @@
             <th class="text-center" style="width: 15%;">PERMISOS</th>
             <th class="text-center" style="width: 10%;">ESTADO</th>
             <th style="width: 20%;">ACCESO</th>
-            <th class="text-center" style="width: 100px;">ACCIOONES</th>
+            <th class="text-center" style="width: 100px;">acciones</th>
           </tr>
         </thead>
         <tbody>
