@@ -26,7 +26,7 @@
                 <th> Producto </th>
                 <th class="text-center" style="width: 10%;"> Categoría </th>
                 <th class="text-center" style="width: 10%;"> Disponibles </th>
-                <th class="text-center" style="width: 10%;"> PRODUCTO AGREGADO </th>
+                <th class="text-center" style="width: 10%;"> Producto Agregado </th>
                 <th class="text-center" style="width: 100px;"> Acciones </th>
               </tr>
             </thead>
